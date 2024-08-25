@@ -11,13 +11,8 @@ A simple ToDo List web application built with HTML, CSS, and JavaScript. This pr
 ### Prerequisites
 - Node.js
 - npm
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/linhan0112/todolist.git
    
-### local server
+### Preview on local server
 1. intall local server
    ```bash
    .npm install -g http-server
@@ -91,7 +86,10 @@ Your site is live at https://linhan0112.github.io/todolist/
 6. check result:  
 to GitHub repository and check
 
-   
+### Clone from GitHub
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/linhan0112/todolist.git   
 
 
 
