@@ -1,4 +1,4 @@
-# ToDo List Web Application
+# Basic To Do List Web Application
 A simple ToDo List web application built with HTML, CSS, and JavaScript. This project allows users to add, edit, and delete tasks in a straightforward and intuitive interface.
 
 ## Directory Structure
